@@ -1,0 +1,353 @@
+>>>Page:
+https://www.vstart.dev/play/1
+>>>Title:
+Contextual Inquiry
+>>>What:
+Team members unobtrusively observe participants at work in their natural environments, with their permission, and ask questions about their processes and experiences
+>>>Why:
+To collect information about the “context of use.” Because participants are observed and interviewed in their environments, the data is more accurate and contextual than data collected in a controlled setting. This technique is generally used at the beginning of the research process and is useful for getting rich information about processes, physical environments, and tools.
+>>>Page:
+https://www.vstart.dev/play/2
+>>>Title:
+Design Kit
+>>>What:
+Design kits are often known as a UI Kit or user interface kit and are often confused with design systems. While different, they do go hand-in-hand. A design system is much broader than a design kit. A design system relates to the code components, standards, guidelines and best practices, and much more. A design kit is a single file containing reusable components that designers use to build mockups or prototypes. It can stand alone without any relation to a more extensive design system or be used as a tech agnostic design system in some instances. Design kits are typically created with a vector-based user experience design tool like Sketch, XD or Figma. A good design kit should contain the app’s color palette, typography, grids, and icons. However, the bulk of the kit includes commonly used UI components such as alerts, buttons, form elements, alerts, tooltips, and even patterns and templates.
+>>>Why:
+There are several reasons to create a design kit. Design kits help improve the designer’s workflow by saving time and keeping designs and teams consistent by allowing them to create, edit, or expand on the existing components without creating them from scratch. They can save time and money by allowing designers to use their time more efficiently and make quicker updates, as well as ensure consistency. When everyone knows the precise size and color, the buttons should be, the product becomes more consistent, which allows the users to navigate the product more efficiently and reduces cognitive load. A design kit also facilitates more rapid project onboarding.
+>>>Page:
+https://www.vstart.dev/play/3
+>>>Title:
+Ideation and Brainstorming
+>>>What:
+Ideation is a creative process used to generate ideas that address a problem statement in a facilitated, judgment-free environment. The purpose of these sessions is to come up with as many ideas as possible from team members.
+>>>Why:
+Ideation is the bridge between the problem space and solution space. It is a critical piece early in the design process because it is a transitional step from learning about your users and their problems and using your imagination to come up with solutions. Instead of focusing on a single solution, this activity encourages generating many ideas beyond the obvious.
+>>>Page:
+https://www.vstart.dev/play/4
+>>>Title:
+Minimum Viable Product
+>>>What:
+A Minimum Viable Product (MVP) is a version of a working product that allows the team to learn from and interact with their customer with the least amount of effort. MVP attends to the core customer needs first and as soon as possible. It helps to validate needs, reduce risk, and help the program’s course correct quickly, as needed. Rooted in concepts that emerged from the book “The Lean Startup” by Eric Ries, the core idea is to facilitate a better understanding of the customers’ needs and interests without committing or using a large number of resources or fully developing a product.
+>>>Why:
+Teams should create MVP in a manner that allows for proper customer interaction and helps the team elicit feedback and learn. MVP does not have to be the smallest piece of functionality; it is the simplest version of a product that can be released. When the concept of MVP is well-executed, it can help a team to make refinements on later iterations. In the early stages of the Product journey, MVP helps align the product to the actual user needs, rather than doing it at later stages. Early refinement helps to control scope creep, costs, unnecessary complexities, and delays. An MVP is a cost-efficient, user-focused way to bring a product to market quicker while gaining the necessary feedback for future iterations.
+>>>Page:
+https://www.vstart.dev/play/5
+>>>Title:
+Prioritization
+>>>What:
+Prioritization is an essential activity of product and project management that applies basic economics principles to assign a value to backlog items and put them in order. The basic tenet of prioritization is to work off your backlog to gather a list of all the problems you want to solve and order the list based on value.
+>>>Why:
+Organizational, product, and customer priorities can shift quickly and frequently depending on many external and internal factors. This constant flux in priorities requires a constant review and prioritization of the work ahead to maximize the resources available. When faced with multiple competing priorities and approaching milestones, having a prioritization framework can provide clear, objective parameters and guidelines to help make decisions that produce value to the business and users.
+>>>Page:
+https://www.vstart.dev/play/6
+>>>Title:
+Product Backlog Management
+>>>What:
+A Product Backlog is an ordered list of all the requirements needed for a specific product. This includes features, user stories, enhancements, and bug fixes, and is a live document that is always evolving and never considered complete. In SAFe, the product backlog is called the ‘Program Backlog’ and applies to a single Agile Release Train (ART). Product backlog management is the process where the product owner, in collaboration with others, adds, adjusts, refines, and prioritizes the backlog items.
+>>>Why:
+Managing the product backlog is important for keeping a project on track and making sure that the correct items get included (developed and fixed). With consistent product backlog management, backlog items have the right amount of details and are prioritized according to current needs. It also ensures legacy items are added and prioritized, enhancements are added as needed, and bug fixes are incorporated as issues arise. A continuously well-refined backlog is at the heart of a predictable value delivery engine for your solution.
+>>>Page:
+https://www.vstart.dev/play/7
+>>>Title:
+Product Backlog Refinement
+>>>What:
+Product backlog refinement (PFR) is a continuous review of the product backlog (dynamic body of information) to create a shared understanding of the functionality to be developed. This ensures that the top priority items in the backlog are ready for development in the next sprints.
+>>>Why:
+PFRs get the targeted user stories ready for the next sprint, making sure that the scrum team agrees on the functionality and priority of the items to be completed. Regularly occurring refinements help ensure a healthy backlog full of user stories with clear acceptance criteria that meet the Definition of Ready (DoR). The goal of refinement is to have about two sprints worth of work refined and ready to be worked on so that the team can pull in work as needed.
+>>>Page:
+https://www.vstart.dev/play/8
+>>>Title:
+Project Kickoff
+>>>What:
+Whether for a short-term technical challenge or a long-term client engagement, any project needs a strong start. That's where a well-planned and conducted kickoff meeting can effectively communicate the vision, objectives, and process.
+
+Kickoffs can be geared towards the only internal team or be comprehensive and include the client. This play focuses on internal kickoff meetings; however, there are also specific tips for kickoffs involving the client.
+>>>Why:
+The kickoff is the moment the entire team is together, and it provides them with the information and resources to be a successful steward of the vision and objectives.
+>>>Page:
+https://www.vstart.dev/play/9
+>>>Title:
+Research Readout
+>>>What:
+A Research Readout is a summary of your research findings. A readout can happen after conducting user interviews, user testing, or even a design studio. The readout can occur in many different forms. Typically, the deliverable is a formal report ( Word Document) or presentation (PowerPoint or KeyNote). It can include graphs, charts, images, videos, and user quotes.
+>>>Why:
+The reason for creating research readouts is to easily and clearly communicate the findings you uncover from the research you conducted. You want everyone to know what you know, and draw their own conclusions and insights about the data. This is especially true when the research was conducted and only a few team members were involved. The user research report often impacts the next steps for the project, sheds light on issues and areas for improvement, and most of all gives your team a realistic sense of how your users feel about the thing you're building.
+>>>Page:
+https://www.vstart.dev/play/10
+>>>Title:
+Personas
+>>>What:
+Personas are fictional characters that represent actual user groups based on user research. They are created to differentiate between the distinct user groups that might use your product. The final persona artifact is a visual document that has different sections for demographic information, behaviors, goals, frustrations, motivations, and any other relevant data to that user group
+>>>Why:
+Creating personas helps understand your users’ needs, experiences, behaviors, and goals. They can help you develop more empathy for the user so that you can better identify with the people you’re designing for.
+
+Personas highlight specific behavior and demographic characteristics. Though they are not real people, personas can represent real user groups and guide the team throughout the design process. The information captured in personas reveals relevant and meaningful commonalities of a larger group of users. Personas aren’t made up; they are the result of all the research conducted during the discovery phase.
+
+Personas help you understand patterns in your research to assess your design against. For example, if your team is preparing for a round of usability testing, you can review your personas to see who you should recruit, based on the features you are testing. Personas can get you closer to your goal of creating a good user experience.
+>>>Page:
+https://www.vstart.dev/play/11
+>>>Title:
+Sprint Zero
+>>>What:
+Sprint zero is the initial sprint for a project that focuses on activities to help the team prepare for the upcoming sprint cadence.
+>>>Why:
+A sprint zero provides an opportunity for the newly formed team to practice and fine-tune the workings of a sprint cycle (i.e., to develop and deliver agreed-upon sprint deliverables, perform sprint ceremonies, etc.). IT also helps a team work through team development. One such model is Tuckman's stages of group development. (See resources for more information) and allows a set period of time for the team to establish a shared understanding and agreements.
+>>>Page:
+https://www.vstart.dev/play/12
+>>>Title:
+Task Analysis and Flow Diagrams
+>>>What:
+Task Analysis: A task analysis is the process of learning and understanding how users perform their tasks and achieve their intended goals, typically by observing them in action. This activity is about taking a very broad or high-level task and breaking it down into smaller subtasks and objectives that are then sequenced.
+
+Flow Diagrams: A flow diagram is a visual representation of all the steps within a specific process, system, or action. It is the sequenced version of the broken-down task because it visually lays out every step a user takes from the beginning of a task to the intended goal.
+
+Flow diagrams are one type of deliverable of a task analysis activity. There are two states of flow diagrams: As-Is: A visual representation of the current process as it is today. To-Be: A visual representation of how a process could look.
+>>>Why:
+Task analysis helps you better understand your users’ goals, what they are, and how they achieve them. They are great for identifying areas of opportunity to improve the user experience and generating preliminary ideas as to how you might approach these challenges.
+
+Flow diagrams help you visualize these flows in a more concrete and sequenced fashion.
+>>>Page:
+https://www.vstart.dev/play/13
+>>>Title:
+Affinity Mapping
+>>>What:
+Affinity mapping, also known as affinity diagramming, is a collaborative technique that helps teams organize and synthesize large amounts of information into meaningful, consumable, and actionable pieces.
+
+Affinity mapping involves two main steps: generating ideas and organizing those ideas into meaningful groups. The ideas or data that become the sticky notes used in affinity mapping can come from anywhere, such as ideation sessions, observations, facts from a research study, or thoughts and feedback from any collaborative exercise like retrospectives or process flow mapping. The organization of the sticky notes is about putting them into groups based on relevance, relationships, and connections.
+>>>Why:
+Affinity maps help surface insights and themes that can be turned into actionable items and can also be used to help augment the decision-making process. They are especially great when you have large amounts of user research data and are looking for ways to get the team to collaborate when not everyone has been fully involved in the research process.
+
+For example, rather than having one Researcher synthesize all the data alone, having the team diagram together gets those who might not typically be involved in the research process closer to what users say and do. Which helps build empathy towards the users and increases stakeholder buy-in.
+>>>Page:
+https://www.vstart.dev/play/14
+>>>Title:
+Wireframing
+>>>What:
+A wireframe is a high level visual depiction of a product, application, or website. Wireframes allow you to plan the layout and interaction patterns without getting bogged down by trivial things like font type, text colors, and content.
+
+Wireframes can be confused with sketches because of the similarities they share, however, wireframes are actually the middle ground between a sketch and a mockup, which then leads to a prototype.
+>>>Why:
+Wireframes are used to illustrate a rough idea of the application without the distraction of specific design elements or imagery so that the focus is on the interactions. If our focal points are on the interactive elements on key pages then we can ensure that the users can easily accomplish the task at hand. The initial wireframe will often be a starting point, not the final design. Designers may sketch multiple wireframes for the same screen in order to iterate the best design.
+>>>Page:
+https://www.vstart.dev/play/15
+>>>Title:
+Working Agreements
+>>>What:
+Working Agreements (WA) are a set of rules established by the team to make themselves more efficient and self-managing. These ground rules define how a team will work and interact with each other in order to achieve team goals and be most productive. WA’s are also referred to as Team Norms or Social Contract. These rules are revisited often and updated by the team as team dynamics and environment evolve.
+>>>Why:
+The act of creating WA’s and having them are important cornerstones of establishing team culture, building trust, and empowering team members to hold each other accountable. WA’s promote self-managing teams through open discussion and aligning team expectations around team interactions.
+>>>Page:
+https://www.vstart.dev/play/16
+>>>Title:
+Selecting Agile Frameworks
+>>>What:
+One of the challenges of beginning a new program or project is determining the most beneficial Agile Framework to manage and deliver your products. Programs that arbitrarily select a framework or are directed into a specific framework often encounter challenges managing their products and delivery. When selecting an Agile framework, several considerations are necessary, such as knowing your client, understanding their pre-existing delivery and customer landscape, and identifying their long-term delivery vision and Objectives and Key Results (OKRs). Additionally, a plan to educate your Program and teams to ensure they operate within Agile-based concepts is essential.
+>>>Why:
+The goal is to select a framework so that the program can begin creating a plan of action, perform any required immediate training, identify long-term training objectives, and begin full Program and Team level adoption. Often, you will be required to train or educate your client on the chosen framework, particularly when the client will provide agility-based resources to support your delivery (e.g., Product Owners, Product Managers, etc.).
+
+Your selected framework helps guide your product development and delivery, so it is vital to identify a framework that is best suited to your Program and Team to maximize the potential for success and a regular delivery cadence.
+>>>Page:
+https://www.vstart.dev/play/17
+>>>Title:
+Definition of Ready
+>>>What:
+Definition of Ready is a shared understanding from the team that defines what it means for a work item to be ready to be placed in an iteration. User stories and work items can be evaluated for meeting the DoR during refinement. It is a living document determined and iteratively updated by the team, with the scrum master's guidance.
+
+Accepting a story or work item into a sprint means that the team is confident that there is enough information to deliver the work and that the user story meets the INVEST matrix (Independent, Negotiable, Valuable, Estimable, Small, Testable). The Product Owners can use DoR when preparing for user stories for upcoming sprints. The team uses it as a checklist during refinement and sprint planning to make sure that the work item is complete enough to deliver within a sprint.
+>>>Why:
+Having a DoR promotes transparency and creates a shared understanding of when a work item will be accepted by the team to be worked on in a sprint. It ensures that a work item has clearly defined acceptance criteria, reducing the chance of re-work. It also guides the team during sprint planning to pick appropriate work, ultimately ensuring the work outcome is consistent and high quality.
+>>>Page:
+https://www.vstart.dev/play/18
+>>>Title:
+Event Storming
+>>>What:
+Event Storming is a rapid and highly collaborative workshop used to explore complex business needs and domains. Event Storming comes from a software development approach known as Domain-Driven Design, a practice that connects software development to a business’s core model and concepts.
+
+Three types of Event Storming workshops can be used in different scenarios: Big Picture, Process Modeling, and Software Design - we’ll go into these scenarios in more detail below. A hallmark outcome of an Event Storming workshop is a comprehensive end-to-end flow and visualization of value streams denoted using a specific modeling language and format.
+>>>Why:
+Event Storming accelerates big group learning while facilitating cooperation and collaboration between business and development teams. It's a method that drives greater understanding and productivity among a team by collaboratively exploring a business's landscape. Because Event Storming requires every role in the business to be present - from stakeholders to designers and developers - it drives team alignment on a shared vision and early buy-in. Visualizing the domain model and its supporting pieces can be hugely valuable to the business, especially for the development team, as they prepare to tackle the system piece-by-piece.
+>>>Page:
+https://www.vstart.dev/play/19
+>>>Title:
+Team & Project Onboarding
+>>>What:
+Team onboarding is the process of introducing a new team member (whether recently hired or moving from another project) to the culture of your team. It is a time to set expectations on roles, responsibilities, and rules of engagement. In addition, it may involve walking through documentation and basic information about your project, demonstrating existing applications or work in progress, explaining the tools and artifacts that the team uses, and other activities that you deem necessary and relevant for the person onboarding to become a productive member of the team.
+>>>Why:
+Conducting a proper onboarding can set the new team member up for success and set the stage for their long-term contributions to the project. For new employees, team onboarding is as equally critical as employee onboarding. Just because an individual has gone through the organization’s onboarding process doesn’t mean they have an understanding of the actual project they’re assigned. Likewise, existing employees moving between projects need to go through team onboarding to learn the norms and expectations of the new project.
+>>>Page:
+https://www.vstart.dev/play/20
+>>>Title:
+Scrum Team Roles and Responsibilities
+>>>What:
+Scrum is an agile framework that focuses on continuous improvement and learning. A scrum team is typically composed of a Scrum Lead/Scrum Master, a Product Owner, and three to eight cross-functional, self-organizing individuals who work collaboratively to deliver the product increments. Each role is a peer to the others, and there’s no structural hierarchy. Scrum teams are flexible and adaptive, which allows them to respond quickly and efficiently to change.
+>>>Why:
+
+>>>Page:
+https://www.vstart.dev/play/21
+>>>Title:
+Card Sort
+>>>What:
+Card sorting is a research technique that asks participants to group a set of items into categories that make sense to them.
+>>>Why:
+Card sorting is a commonly used exercise to help inform and shape the Information Architecture of a website or application by discovering how users understand, group, and sometimes label information. Card sorting helps you manage your content strategy, which is especially important for large and frequently updated websites and systems.
+
+Card sorting can also be used to understand how users rank or arrange items based on set criteria.
+>>>Page:
+https://www.vstart.dev/play/22
+>>>Title:
+Tech Challenge Set Up
+>>>What:
+Technical Challenges are a common requirement for modern proposals, especially in the government realm, where the candidate company/team is asked to “show, not tell.” Challenges can vary widely in scope and duration depending on the actual proposal requirements. This play outlines strategies and actions that are necessary for the preparation of the team.
+
+This play focuses on the “organization” of potential activities for the challenge. For information on the schedule and operations side of challenges, see “Technical Challenge Ops” play.
+>>>Why:
+While the scope and requirements of technical challenges differ between proposals, the organization tasks are the same and can help a team get started faster and be more productive in a limited time window. The clock starts running once the Request for Proposal (RFP) Technical Challenge document is released, so it’s very important to get organized quickly.
+>>>Page:
+https://www.vstart.dev/play/23
+>>>Title:
+Agile Estimation
+>>>What:
+Agile estimation is the process of analyzing backlog items to provide a relative, approximate size (story points) done by a scrum team. These estimated story points, in combination with prioritization, are used to plan sprints and releases. Agile estimation is a team process and is consensus-based, requiring participation and input from the entire team.
+>>>Why:
+Agile estimation helps the team acquire a shared understanding of the requirements and the solution. It determines how much work to bring into future sprints and facilitates planning future work, including releases. Fostering collaboration by engaging the entire team, agile estimation creates consensus estimates rather than having a single person driving the estimate, which creates a shared understanding of what needs to be done. It exposes potential issues early through discussion of each backlog item and allows identification of stories that are too large to fit in a sprint and should be split.
+>>>Page:
+https://www.vstart.dev/play/24
+>>>Title:
+Customer Journey Mapping
+>>>What:
+A customer journey map (also called a user journey map) is a visual story of your customer’s journey through every touchpoint of your brand, product, or service. It highlights the customer’s activities, goals, and experiences in relation to the touchpoints, including what they are thinking and feeling through each stage of their journey, as well as what the application, service, or company is doing in response.
+>>>Why:
+This visual layout of a customer journey map allows businesses and teams to easily identify opportunities to provide value or capitalize on a gap in service, support, marketing, or incentives. It also helps businesses align business goals to each stage of the journey to better serve business and user needs and objectives.
+
+Customer journey maps help to tell the story of your customers’ experiences with your brand across all touchpoints and creates a better understanding of company activities at each stage and touchpoint. It’s a strategic approach to better understanding customer expectations and provides a way to highlight common customer pain points. Highlighting company deficiencies (e.g., marketing, support, onboarding, retention), customer journey mapping is a visual way to identify opportunities to add value (helps to optimize the customer experience).
+>>>Page:
+https://www.vstart.dev/play/25
+>>>Title:
+Definition of Done
+>>>What:
+Definition of Done is a shared understanding from the team that defines what it means for a work item to be complete. It is a living document and iteratively updated by the team with the scrum master's guidance.
+>>>Why:
+Establishing a Definition of Done creates a shared understanding of when a work item is complete. It creates transparency and guides the team during sprint planning to pick appropriate work. It is also helpful in informing how the team sizes a story, as well as ensures quality and consistency of work.
+>>>Page:
+https://www.vstart.dev/play/26
+>>>Title:
+Sprint Retrospective
+>>>What:
+A Sprint Retrospective is a scrum team ceremony that occurs after the Sprint Review and before the next Sprint Planning. It is an opportunity for the Scrum Team to openly discuss what went well and what didn't in the previous sprint. The outcome is to create a plan for necessary actions and improvements to be enacted and during the next sprint.
+>>>Why:
+A Sprint Retrospective's goal is to create a safe space to share valuable feedback in order to identify incremental improvements to continuously increase overall team productivity, improve member performance, and enhance the quality of work by leveraging the lessons from past experience.
+>>>Page:
+https://www.vstart.dev/play/27
+>>>Title:
+Technical Challenge Operations
+>>>What:
+Technical Challenges are a common requirement for modern proposals, especially in the government realm, where the candidate company/team is asked to “show, not tell.” Challenges can vary widely in scope and duration depending on the actual proposal requirements. This play outlines strategies and techniques that could be utilized during code challenges. To provide a more comprehensive cross-functional process, we will assume that the code challenge requires you to build a web application by applying Agile frameworks, DevSecOps, User-Centered Design, and Product Management principles.
+
+This play focuses on a generalized “schedule” of potential activities for the challenge. For information on the management and administration side of challenges, see “Technical Challenge Set Up” play.
+>>>Why:
+While the scope and requirements of technical challenges differ between proposals, the core operations can be generalized in a repeatable framework that can help a team get started faster and be more productive in a limited time window. The clock starts running once the Request for Proposal (RFP) Technical Challenge document is released, so it’s very important to get organized quickly and have a plan of action.
+>>>Page:
+https://www.vstart.dev/play/28
+>>>Title:
+Usability Testing
+>>>What:
+Testing how easy a design is to use with a group of representative users. There are 2 parties involved in a usability test: the moderator or person facilitating the session and the participant or the person attempting to complete the tasks.
+>>>Why:
+To identify problems with the design, uncover opportunities to improve the design and learn about the representative users’ behaviors and preferences.
+>>>Page:
+https://www.vstart.dev/play/29
+>>>Title:
+User Interviews
+>>>What:
+User interviews are semi-structured conversations with anyone interested in a project’s success, including users. Typically they are one-on-one sessions with a stakeholder or user to learn more about a topic.
+>>>Why:
+They are intended to build consensus about challenges, needs, and research objectives, which offers insight into what users think about a site, application, product, or process.
+>>>Page:
+https://www.vstart.dev/play/30
+>>>Title:
+User Story
+>>>What:
+User stories are small, tangible requirements that can be used to communicate and summarize the functionality of the product. They contain a list of acceptance criteria that determine when the user story can be considered done.
+
+Larger user stories will be classified as Features and then Epics. Both will later be decomposed to fit into a single sprint.
+>>>Why:
+A user story captures the user’s expectation to be fulfilled by the software and states the value it provides to the user once the expectation is fulfilled. They clarify the what, for whom, why, and when to the team.
+>>>Page:
+https://www.vstart.dev/play/31
+>>>Title:
+User Story Mapping
+>>>What:
+User story mapping is a collaborative exercise that helps agile development teams define work by visually mapping the user stories using the user’s journey as the guide. It is a user-centric approach focused on actual user needs.
+
+The mapping process creates a workflow that replicates the real user journey and helps identify gaps, prioritize actions, and brings clarity to the team and stakeholders. Visually viewing the stages and features helps create a clear picture of what "must" be delivered each iteration, from the MVP base functionalities to enhancements, nice to haves, and other activities.
+>>>Why:
+User Story Mapping is truly user-centric and keeps the user’s needs front and center and helps enhance the user experience. It focuses on both the overall vision of the product and the user activities, providing visual clarity to visually map how each activity can be sequenced for efficiency (within sprints). In addition, it allows for better prioritization, stronger business strategy alignment, and lower risks.
+>>>Page:
+https://www.vstart.dev/play/32
+>>>Title:
+UX Organizational Models
+>>>What:
+The various models in which UX team roles can be organized in order to support the wider team's organizational structures and project setup.
+>>>Why:
+Establishing an organizational model that enables effective collaboration and communication for UX design or any other discipline, takes great effort. Team structure is always evolving through newly added team members, new products or features, and the lessons learned over time about how teams most efficiently interact.
+
+It is often difficult to determine an effective UX team because UX is often thought of last after considering development and product management efforts. Additionally, many development processes don’t include UX activities in their models.
+>>>Page:
+https://www.vstart.dev/play/33
+>>>Title:
+UX Roles and Team Structure
+>>>What:
+UX roles describe the various parts a person plays in the design process. They range from generalists to specialists. UX roles may overlap in responsibilities and evolve with team structure and design process of an organization.
+>>>Why:
+It's important to understand the specific UX roles, their key responsibilities, and the types of deliverables they create in order to set reasonable expectations and collaborate effectively. While UX roles & activities can and will overlap with each other as well as with other roles depending on the project and environment, recognizing the specialized skill sets and strengths each UX role brings to the table is beneficial to creating well-covered teams.
+>>>Page:
+https://www.vstart.dev/play/34
+>>>Title:
+Product Backlog Items
+>>>What:
+A product backlog item is a work item or artifact on the product backlog that describes the requirement or task that needs to be completed to meet the business objectives. Product backlog items can include epics, features, stories, or bugs.
+
+This play contains definitions of different product backlog items and provides some guidelines to help create useful product backlog items. This play is not intended to be prescriptive or exhaustive; the team should ultimately do what works best for them to deliver the most value to the business and end-users.
+>>>Why:
+Creating a product backlog is an essential task to organize, manage, and track work activities for any project. Understanding the differences between the types of backlog items can help improve your backlog’s organization and the team’s alignment on the body of work required to achieve the mission. Some of the benefits of capturing product backlog items are as follows:
+
+Capture the user and business needs
+Clarify and align on requirements and desired functionality
+Visualize work and ensure transparency within the team and business owners
+Allow the team to work on the highest priority items
+Ensure the client/business owners are getting what they need
+By sizing the backlog items, allows the team to plan future sprints and releases
+>>>Page:
+https://www.vstart.dev/play/35
+>>>Title:
+Information Architecture & Site Mapping
+>>>What:
+The information architecture (IA) is the backbone of an application as it defines the overall structure. When laying out the IA, it’s easy to see how to make it navigable and accessible to the user. The key to great IA is to understand how your targeted users think and what problems they are trying to solve, and then present the information in a logical order that makes sense to them with this context.
+
+Site maps are hierarchical diagrams showing the structure of a website or application and are artifacts of information architecture.
+>>>Why:
+Information architecture is the foundation upon which a website/application is built. Making sure the IA makes sense for both business and user perspectives before any development work begins will ensure that the content is organized most efficiently and logically and save time and money by eliminating the need to fix major IA issues later.
+>>>Page:
+https://www.vstart.dev/play/36
+>>>Title:
+Product Launch
+>>>What:
+A product launch is a coordinated effort to bring a new product or feature to market. A major release is often referred to as a product launch. Unlike a release plan, a product launch ensures your product lands with the customer. It focuses on the customer and end-user communication necessary to excite customers and align and inform both internally and with the customer. You will also need to define success measures through KPI’s and associated metrics. Finally implementing tying in the strategy with your marketing efforts if applicable to your launch.
+
+Product launch planning consists of a planning document that details the tasks and timelines behind getting users to interact with a new feature or product. It also includes what happens after you bring a new product to market including understanding how well the product is accepted by users.
+>>>Why:
+A product launch is integral to the product development lifecycle. We launch regardless, but how we launch is critical for many reasons:
+
+Keeps activities and the team organized and aligned to the same goals
+Gives your product a better chance at succeeding in the long term
+Capture your customer’s attention at the get-go and gives your product a positive first impression
+>>>Page:
+https://www.vstart.dev/play/37
+>>>Title:
+Setting Objectives & Milestones
+>>>What:
+Objectives and milestones are both critical in a product development process. An objective is a quantifiable goal you want to achieve that seeks specific outcomes, and a milestone is a significant point of progress tied to analytics. Product objectives are defined by the milestones, which are time-bounded results tracked against objectives. These are often measured through quantifiable and qualitative metrics or key performance indicators (KPIs).
+>>>Why:
+Objectives drive an organization to focus on what is most important, increase alignment, and help execute ideas. For business objectives, you need key results measured over time; some organizations even measure how well they are performing against a set of goals. Objectives are essential to highlight what is important. Written correctly, objectives empower teams to innovate and stretch their capabilities,to better understand the outcomes of the organization's business assumptions, outcomes, and priorities.
+
+Milestones allow us to measure outcomes against objectives more effectively, sequence the right initiatives/epics/features at the right time, and find the right data points to assess the health of your objectives and goals.

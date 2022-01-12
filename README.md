@@ -1,7 +1,7 @@
 # haiv-vstart-poc1
 Machine Learning prototype for vSTART
 
-### folder descriptions:
+### Folder Descriptions:
 | Folder | Description |
 | --- | ----------- |
 | chatbot | zip of chatbot exported from Amazon Lex |

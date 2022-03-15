@@ -1,4 +1,4 @@
-# haiv-vstart-poc1
+# awsLex-vstart-poc1
 Machine Learning prototype for vSTART
 
 ### Folder Descriptions:
